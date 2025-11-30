@@ -20,7 +20,7 @@ This repository contains the official implementation of **SA-UNetv2** (arXiv 202
 
 ## ARCHITECTURE
 
-![Framework](images/framework.pdf)
+![Framework](images/image.png)
 *The architecture of SA-UNetv2. It integrates Cross-scale Spatial Attention (CSA) in skip connections and uses an optimized convolutional block design.*
 
 ## 🛠️ Installation
