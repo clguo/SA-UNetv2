@@ -7,7 +7,7 @@ This repository contains the official implementation of **SA-UNetv2** (arXiv 202
 
 **SA-UNetv2** is a lightweight, efficient, and robust architecture tailored for retinal vessel segmentation. It introduces **Cross-scale Spatial Attention (CSA)** into all skip connections and utilizes a compound **BCE + MCC loss** to handle severe class imbalance.
 
-![Performance Comparison](images/DRIVEP.png){ width=400px }
+<img src="images/DRIVEP.png" width="400">
 *Figure 1: Comparison of retinal vessel segmentation networks on the DRIVE dataset. SA-UNetv2 achieves the highest F1 score with the lowest model complexity (0.26M parameters).*
 
 ## 🌟 Key Features
